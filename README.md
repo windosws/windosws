@@ -1,16 +1,19 @@
-### Hi there 👋
+```zsh
+> vanity
+```
 
-<!--
-**windosws/windosws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://64.media.tumblr.com/b0e2ffee4e249b78d0f25d9b6fb0c686/tumblr_ns5kajg5FX1skn1oxo1_540.gif" width="200" /> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+windosws@github
+----------------
+
+      SYS  :  Windows 11
+    Shell  :  sws 
+ Terminal  :  vani@admin
+      CPU  :  AMD Ryzen 7 3700
+      GPU  :  gtx 1660 super (S)
+    Alias  :  cs/map
+Languages  :  C, C++, C# [. . .]
+```
