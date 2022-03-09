@@ -11,8 +11,8 @@ windosws@github
       SYS  :  Windows 11
     Shell  :  sws 
  Terminal  :  vani@admin
-      CPU  :  AMD Ryzen 7 3700
-      GPU  :  rtx 2080 super (S)
+      CPU  :  Intel Core i9
+      GPU  :  RTX™ 3080 Ti
     Alias  :  cs/map
 Languages  :  C, C++, C# [. . .]
 ```
