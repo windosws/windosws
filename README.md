@@ -9,7 +9,7 @@ windosws@github
 ----------------
 
       SYS  :  Windows 11
-    Shell  :  sws 
+    Shell  :  egg 
  Terminal  :  vani@admin
       CPU  :  Intel Core i9
       GPU  :  RTX™ 3080 Ti
