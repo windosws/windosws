@@ -13,6 +13,6 @@ windosws@github
  Terminal  :  vani@admin
       CPU  :  Intel Core i9
       GPU  :  RTX™ 3080 Ti
-    Alias  :  cs/map
+      IDE  :  GVIM / Vim
 Languages  :  C, C++, C# [. . .]
 ```
